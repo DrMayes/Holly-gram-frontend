@@ -3,6 +3,18 @@
   background-attachment: fixed;
 }
 
+#RegisterContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#RegisterInfoForm {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
 #NavBarContent {
   display: flex;
   flex-direction: row;
