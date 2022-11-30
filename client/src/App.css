@@ -1,0 +1,26 @@
+*{
+  background-image: linear-gradient(to top right, #78d1fa, #e1fff5);
+  background-attachment: fixed;
+}
+
+#RegisterContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#RegisterInfoForm {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+#NavBarContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.App {
+  text-align: center;
+}
